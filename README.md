@@ -1,0 +1,5 @@
+- 👋 Hi, I’m BerserkZak!
+- ⚙️ I'm working on Minecraft Plugins.
+- 👀 I’m interested in Java.
+- 🌱 I’m currently learning Java, Kotlin.
+- 📫 How to reach me: me4anicman@gmail.com
