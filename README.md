@@ -17,5 +17,5 @@ I like to do Minecraft Plugins.
 
 ### Stats:
 
-[![BerserkZak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerserkZak&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerserkZak&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![BerserkZak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerserkZak&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerserkZak&layout=compact&theme=gruvbox&show_icons=true)
