@@ -23,9 +23,9 @@ algorithms and minecraft plugins.
 
 ### STATS
 
-![BerserkZak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerserkZak&show_icons=true&theme=gruvbox)
+![BerserkZak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerserkZak&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerserkZak&layout=compact&theme=gruvbox&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerserkZak&langs_count=5&layout=compact&theme=onedark&show_icons=true)
 
 ### LINKS
 
