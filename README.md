@@ -1,15 +1,22 @@
 <div style="text-align: center;">
 
-### Hi, I'm BerserkZak
+### Greetings
 
 ---
 
 
 
-I am beginner Java Developer. Started 12/10/2022.
-Now I'm coding simple apps and bots.
-Interesting in backend development, high-functions bots,
-algorithms and minecraft plugins.
+I am Java Developer. Started learning 12/10/2022.
+    
+Interested in: 
+- [x] backend development
+- [x] bots
+- [x] algorithms
+- [x] minecraft plugins.
+    
+A little bit in HTML and CSS, just for practice.
+Feel free to DM me:
+Discord: BerserkZak#6742
 
 <span> 
     <img src="https://komarev.com/ghpvc/?username=BerserkZak&style=for-the-badge" alt=""/> 
